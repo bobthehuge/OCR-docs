@@ -1,5 +1,13 @@
 # OCR-docs
+
 official documentation for OCR in EPITA 2022 and random relational docs
+
+# Search
+
+https://google.com  
+https://youtube.com  
+https://stackoverflow.com  
+https://github.com/BobTheHuge/OCR-docs/  
 
 # Architecture
 
